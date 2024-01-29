@@ -27,7 +27,7 @@ Neural Artisan is a project that employs deep learning precision to recognize ha
 
 - **Neural_Artisan.ipynb:** Jupyter Notebook containing the main project code, including data loading, preprocessing, model building, training, evaluation, and result visualization.
 
-- **train.csv and test.csv:** Datasets used for training and testing the CNN model.
+- **mnist-dataset :** [MNIST dataset on Kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) (Note: The dataset is not directly included in this repository. You can download it from Kaggle using the provided link.)
 
 - **submission.csv:** CSV file containing the predicted labels for the test set.
 
@@ -42,4 +42,4 @@ Neural Artisan is a project that employs deep learning precision to recognize ha
 2.**Install the required dependencies:**
 
 ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
