@@ -38,7 +38,7 @@ Neural Artisan is a project that employs deep learning precision to recognize ha
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/NabilYimer/Neural-Artisan-MINIST-Digit-Recognition-with-Deep-Learning-Precision
 2.**Install the required dependencies:**
 
 ```bash
